@@ -40,6 +40,7 @@ The Tableau dashboard lets stakeholders:
 - Compare markdown ROI across departments at a glance
 - Identify high- and low-return departments
 - Explore the recommended budget reallocation
+  
   <img width="1704" height="988" alt="Screenshot 2026-08-01 at 3 25 04 PM" src="https://github.com/user-attachments/assets/272a2214-f065-4551-9067-3be47a7b1c45" />
 
 
